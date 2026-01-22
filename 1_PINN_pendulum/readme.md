@@ -22,5 +22,9 @@ pip install torch numpy matplotlib
 
 ## 🎮 Execution
 Run the simulation:
+
+```bash
 python main.py
+```
+
 
